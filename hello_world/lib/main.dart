@@ -8,7 +8,7 @@ class CalcHelloWordApp extends StatelessWidget {
       title: 'Calculator Hello Wolrd',
       theme: new ThemeData(
         primarySwatch: Colors.teal,
-        scaffoldBackgroundColor: Colors.grey[100]
+        scaffoldBackgroundColor: Colors.grey[200]
       ),
       home: new MainPage(),
     );   
